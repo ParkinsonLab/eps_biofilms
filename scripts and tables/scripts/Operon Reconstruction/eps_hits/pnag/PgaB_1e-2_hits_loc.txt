@@ -1,0 +1,419 @@
+YP_001128527	139473811	NC_009332	Streptococcus pyogenes str. Manfredo| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.	SpyM50970	974117..975079	"polysaccharide deacetylase"
+YP_007739360	478463548			
+YP_005010836	375148395	NC_016609	Niastella koreensis GR20-10| Bacteria; Bacteroidetes; Sphingobacteriia; Sphingobacteriales; Chitinophagaceae; Niastella.	Niako_5196	complement(6446477..6447190)	"polysaccharide deacetylase"
+YP_005012726	375150285	NC_016609	Niastella koreensis GR20-10| Bacteria; Bacteroidetes; Sphingobacteriia; Sphingobacteriales; Chitinophagaceae; Niastella.	Niako_7102	complement(8676828..8677811)	"polysaccharide deacetylase"
+YP_007115972	428318090	NC_019729	Oscillatoria nigro-viridis PCC 7112| Bacteria; Cyanobacteria; Oscillatoriophycideae; Oscillatoriales; Oscillatoria.	Osc7112_3170	3724658..3726049	"protein of unknown function DUF187"
+NP_297140	15835381			
+NP_639573	77747992	NC_003902	Xanthomonas campestris pv. campestris str. ATCC 33913| Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Xanthomonadaceae; Xanthomonas.	XCC4239	complement(5070829..5073534)	"polysaccharide deacetylase"
+YP_005515777	384133165	NC_017162	Acinetobacter baumannii 1656-2| Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Moraxellaceae; Acinetobacter; Acinetobacter calcoaceticus/baumannii complex.	ABK1_3205	complement(3396890..3397528)	"Putative polysaccharide deacetylase"
+YP_006043051	414564090	NC_017582	Streptococcus equi subsp. zooepidemicus ATCC 35246| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.	SeseC_01401	1178253..1179218	"polysaccharide deacetylase"
+YP_008329103	526457965	NC_021877	Burkholderia pseudomallei MSHR305| Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Burkholderia; pseudomallei group.	BDL_5335	2305698..2306537	"polysaccharide deacetylase family protein"
+YP_007717785	478453623			
+YP_007722245	478448211			
+YP_007644933	471262078	NC_020813	Bdellovibrio exovorus JSS| Bacteria; Proteobacteria; Deltaproteobacteria; Bdellovibrionales; Bdellovibrionaceae; Bdellovibrio.	A11Q_1110	complement(1130240..1132039)	"hypothetical protein"
+YP_004996633	375135983	NC_016603	Acinetobacter calcoaceticus PHEA-2| Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Moraxellaceae; Acinetobacter; Acinetobacter calcoaceticus/baumannii complex.	BDGL_002365	complement(2564286..2565017)	"xylanase/chitin deacetylase"
+YP_221107	62289314	NC_006932	Brucella abortus bv. 1 str. 9-941| Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Brucella.	BruAb1_0346	complement(354978..355679)	"polysaccharide deacetylase"
+YP_001654813	166154695			
+YP_006659432	403523863	NC_018529	Burkholderia pseudomallei BPC006| Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Burkholderia; pseudomallei group.	BPC006_II2584	2618457..2619296	"polysaccharide deacetylase family protein"
+YP_008492858	537462418	NC_022226	Staphylococcus aureus subsp. aureus CN1| Bacteria; Firmicutes; Bacilli; Bacillales; Staphylococcus.	SAKOR_02670	2710059..2710379	"Polysaccharide intercellular adhesin deacetylase icaB"
+YP_005410786	383493109	NC_017052	Synechocystis sp. PCC 6803 substr. PCC-N| Bacteria; Cyanobacteria; Oscillatoriophycideae; Chroococcales; Synechocystis.	SYNPCCN_3147	3543473..3544948	"hypothetical protein"
+YP_008345433	527319232			
+YP_001847811	184159472	NC_010611	Acinetobacter baumannii ACICU| Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Moraxellaceae; Acinetobacter; Acinetobacter calcoaceticus/baumannii complex.	ACICU_03152	complement(3352918..3353670)	"xylanase/chitin deacetylase"
+YP_004466082	333892207	NC_015554	Alteromonas sp. SN2| Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Alteromonadaceae; Alteromonas.	ambt_03650	complement(845119..846102)	"polysaccharide deacetylase family protein"
+YP_006074183	386577777	NC_017617	Streptococcus suis GZ1| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.	SSGZ1_0784	complement(830425..831348)	"polysaccharide deacetylase"
+YP_007725822	478457229			
+YP_005815215	385246393			
+YP_001712551	169794758	NC_010410	Acinetobacter baumannii AYE| Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Moraxellaceae; Acinetobacter; Acinetobacter calcoaceticus/baumannii complex.	ABAYE0580	588250..589005	"polysaccharide deacetylase"
+YP_005384910	383324056	NC_017038	Synechocystis sp. PCC 6803 substr. GT-I| Bacteria; Cyanobacteria; Oscillatoriophycideae; Chroococcales; Synechocystis.	SYNGTI_3148	3543374..3544849	"hypothetical protein"
+YP_006757816	406707464	NC_018644	alpha proteobacterium HIMB59| Bacteria; Proteobacteria; Alphaproteobacteria; SAR11 cluster.	HIMB59_00004390	393456..394343	"polysaccharide deacetylase"
+YP_007200168	430741039	NC_019892	Singulisphaera acidiphila DSM 18658| Bacteria; Planctomycetes; Planctomycetia; Planctomycetales; Planctomycetaceae; Singulisphaera.	Sinac_0009	11814..12848	"xylanase/chitin deacetylase"
+YP_002730730	225850496	NC_012440	Persephonella marina EX-H1| Bacteria; Aquificae; Aquificales; Hydrogenothermaceae; Persephonella.	PERMA_0944	902150..903019	"polysaccharide deacetylase"
+YP_004282128	325295614	NC_015185	Desulfurobacterium thermolithotrophum DSM 11699| Bacteria; Aquificae; Desulfurobacteriales; Desulfurobacteriaceae; Desulfurobacterium.	Dester_1439	complement(1432513..1433571)	"polysaccharide deacetylase"
+YP_008027190	528981873	NC_021285	Achromobacter xylosoxidans NH44784-1996| Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Alcaligenaceae; Achromobacter.	NH44784_000761	complement(55893..56600)	"putative polysaccharide deacetylase"
+YP_008441709	532351820			
+YP_001592190	161618303	NC_010103	Brucella canis ATCC 23365| Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Brucella.	BCAN_A0329	complement(333074..333775)	"polysaccharide deacetylase"
+YP_006826737	407701950	NC_018692	Alteromonas macleodii str. 'Black Sea 11'| Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Alteromonadaceae; Alteromonas.	AMBLS11_18585	4383686..4384900	"Polysaccharide deacetylase family protein"
+YP_001169584	146279426	NC_009429	Rhodobacter sphaeroides ATCC 17025| Bacteria; Proteobacteria; Alphaproteobacteria; Rhodobacterales; Rhodobacteraceae; Rhodobacter.	Rsph17025_3402	complement(276838..278019)	"hypothetical protein"
+YP_006859481	408401518	NC_018712	Streptococcus dysgalactiae subsp. equisimilis RE378| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.	GGS_0835	complement(878781..879743)	"polysaccharide deacetylase"
+YP_006720986	404496880	NC_007517	Geobacter metallireducens GS-15| Bacteria; Proteobacteria; Deltaproteobacteria; Desulfuromonadales; Geobacteraceae; Geobacter.	Gmet_2023	complement(2263057..2263884)	"polysaccharide deacetylase domain-containing protein"
+YP_007597389	469823019	NC_020547	Acinetobacter baumannii D1279779| Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Moraxellaceae; Acinetobacter; Acinetobacter calcoaceticus/baumannii complex.	ABD1_28450	complement(3108904..3109656)	"polysaccharide deacetylase"
+YP_001741099	218961324	NC_020449	Candidatus Cloacimonas acidaminovorans str. Evry| Bacteria; Cloacimonetes; Candidatus Cloacimonas.	CLOAM1021	1195482..1196453	"hypothetical protein"
+YP_006967275	412338520	NC_019382	Bordetella bronchiseptica 253| Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Alcaligenaceae; Bordetella.	BN112_1198	complement(1288644..1289369)	"polysaccharide deacetylase"
+NP_269252	15675078	NC_002737	Streptococcus pyogenes M1 GAS| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.	SPy_1094	complement(895420..896382)	"hypothetical protein"
+YP_004478745	333904874	NC_015558	Streptococcus parauberis KCTC 11537| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.	STP_0625	complement(665123..666010)	"polysaccharide deacetylase"
+YP_008443541	532353654			
+YP_006724897	406026065	NC_018610	Lactobacillus buchneri CD034| Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae; Lactobacillus.	LBUCD034_0206	229075..229965	"intercellular adhesion protein"
+YP_007494527	452852843	NC_020409	Desulfovibrio piezophilus C1TLV30| Bacteria; Proteobacteria; Deltaproteobacteria; Desulfovibrionales; Desulfovibrionaceae; Desulfovibrio.	BN4_12141	2273738..2275846	"Glycosyl transferase group 1"
+YP_008655649	549732292			
+YP_006502946	397662246	NC_018108	Taylorella equigenitalis ATCC 35865| Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Alcaligenaceae; Taylorella.	KUI_1287	complement(1386973..1387854)	"putative polysaccharide deacetylase"
+YP_007223916	431797012	NC_019904	Echinicola vietnamensis DSM 17526| Bacteria; Bacteroidetes; Cytophagia; Cytophagales; Cyclobacteriaceae; Echinicola.	Echvi_1641	complement(1897471..1898343)	"xylanase/chitin deacetylase"
+YP_002965917	240141437	NC_012808	Methylobacterium extorquens AM1| Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Methylobacteriaceae; Methylobacterium.	MexAM1_META1p5036	5175407..5176237	"hypothetical protein"
+YP_002744425	225868477	NC_012470	Streptococcus equi subsp. zooepidemicus| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.	SZO_08980	complement(1010734..1011699)	"polysaccharide deacetylase"
+YP_007826108	479196739	NC_021036	Taylorella equigenitalis 14/56| Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Alcaligenaceae; Taylorella.	KUK_0737	817644..818525	"putative polysaccharide deacetylase"
+YP_389739	78358290	NC_007519	Desulfovibrio alaskensis G20| Bacteria; Proteobacteria; Deltaproteobacteria; Desulfovibrionales; Desulfovibrionaceae; Desulfovibrio.	Dde_3250	complement(3248345..3249298)	"polysaccharide deacetylase"
+YP_361383	78044968	NC_007503	Carboxydothermus hydrogenoformans Z-2901| Bacteria; Firmicutes; Clostridia; Thermoanaerobacterales; Thermoanaerobacteraceae; Carboxydothermus.	CHY_2590	complement(2307118..2308221)	"polysaccharide deacetylase"
+YP_008466987	532422279			
+NP_959905	41407069	NC_002944	Mycobacterium avium subsp. paratuberculosis K-10| Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Mycobacteriaceae; Mycobacterium; Mycobacterium avium complex (MAC).	MAP0971	1007871..1008887	"hypothetical protein"
+YP_005811534	385243688			
+YP_007138772	428300466	NC_019751	Calothrix sp. PCC 6303| Bacteria; Cyanobacteria; Nostocales; Rivulariaceae; Calothrix.	Cal6303_3883	complement(4627955..4629220)	"hypothetical protein"
+YP_007921273	488605597	NC_021174	Burkholderia thailandensis MSMB121| Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Burkholderia; pseudomallei group.	BTI_4826	complement(1543562..1545709)	"polysaccharide deacetylase family protein"
+YP_005154022	376280016	NC_016797	Brucella suis VBI22| Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Brucella.	BSVBI22_A0321	complement(333032..333733)	"polysaccharide deacetylase family protein"
+YP_006358923	389856680	NC_017950	Streptococcus suis ST1| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.	SSUST1_1034	1030426..1031349	"xylanase/chitin deacetylase"
+YP_005115353	376274914	NC_016778	Brucella canis HSK A52141| Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Brucella.	BCA52141_I1171	720618..721319	"polysaccharide deacetylase"
+YP_008064755	511052572	NC_021351	Corynebacterium glutamicum SCgG1| Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Corynebacteriaceae; Corynebacterium.	C624_00150	34779..35531	"hypothetical protein"
+YP_006761189	408419775	NC_018645	Desulfobacula toluolica Tol2| Bacteria; Proteobacteria; Deltaproteobacteria; Desulfobacterales; Desulfobacteraceae; Desulfobacula.	TOL2_C23240	complement(2709514..2710311)	"polysaccharide deacetylase"
+NP_623004	20807833	NC_003869	Thermoanaerobacter tengcongensis MB4| Bacteria; Firmicutes; Clostridia; Thermoanaerobacterales; Thermoanaerobacteraceae; Caldanaerobacter.	TTE1386	complement(1368931..1369650)	"xylanase/chitin deacetylase"
+YP_004717640	339626161			
+YP_004340039	327399170	NC_015318	Hippea maritima DSM 10411| Bacteria; Proteobacteria; Deltaproteobacteria; Desulfurellales; Desulfurellaceae; Hippea.	Hipma_1014	complement(1001459..1002472)	"polysaccharide deacetylase"
+YP_006013044	386316880	NC_017567	Streptococcus dysgalactiae subsp. equisimilis ATCC 12394| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.	SDE12394_04850	complement(938305..939267)	"polysaccharide deacetylase"
+YP_007298706	433654998	NC_019970	Thermoanaerobacterium thermosaccharolyticum M0795| Bacteria; Firmicutes; Clostridia; Thermoanaerobacterales; Thermoanaerobacterales Family III. Incertae Sedis; Thermoanaerobacterium.	Thethe_01367	complement(1344936..1345643)	"putative xylanase/chitin deacetylase"
+YP_003106285	256368779	NC_013119	Brucella microti CCM 4915| Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Brucella.	BMI_I326	complement(334752..335453)	"polysaccharide deacetylase family protein"
+YP_008634995	549709026			
+YP_007742027	478465345			
+YP_336188	76818012	NC_007435	Burkholderia pseudomallei 1710b| Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Burkholderia; pseudomallei group.	BURPS1710b_A1030	1292787..1294640	"polysaccharide deacetylase"
+YP_001665192	167037614	NC_010321	Thermoanaerobacter pseudethanolicus ATCC 33223| Bacteria; Firmicutes; Clostridia; Thermoanaerobacterales; Thermoanaerobacteraceae; Thermoanaerobacter.	Teth39_1202	complement(1250381..1251097)	"polysaccharide deacetylase"
+YP_007737580	478468954			
+YP_004248690	325972499	NC_015152	Sphaerochaeta globosa str. Buddy| Bacteria; Spirochaetes; Spirochaetales; Spirochaetaceae; Sphaerochaeta.	SpiBuddy_2687	complement(2918893..2919780)	"polysaccharide deacetylase"
+YP_007716007	478447319			
+YP_007741137	478464445			
+YP_005810623	385242784			
+YP_266424	71083704	NC_007205	Candidatus Pelagibacter ubique HTCC1062| Bacteria; Proteobacteria; Alphaproteobacteria; SAR11 cluster; Candidatus Pelagibacter.	SAR11_1013	992704..993414	"polysaccharide deacetylase"
+YP_002545595	222087060	NC_011985	Agrobacterium radiobacter K84| Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Agrobacterium; Agrobacterium tumefaciens complex.	Arad_3799	complement(3020879..3021580)	"polysaccharide deacetylase/methyltransferase"
+YP_008356432	527330243	NC_021900	Streptococcus lutetiensis 033| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.	KE3_1138	1101893..1102834	"putative deacetylase"
+YP_006187709	511629562	NC_017672	Paenibacillus mucilaginosus K02| Bacteria; Firmicutes; Bacilli; Bacillales; Paenibacillaceae; Paenibacillus.	B2K_04265	991470..992480	"polysaccharide deacetylase"
+YP_007090583	428206230	NC_019695	Chroococcidiopsis thermalis PCC 7203| Bacteria; Cyanobacteria; Pleurocapsales; Chroococcidiopsis.	Chro_1187	1321726..1322964	"hypothetical protein"
+YP_007141666	428304841	NC_019753	Crinalium epipsammum PCC 9333| Bacteria; Cyanobacteria; Oscillatoriophycideae; Oscillatoriales; Crinalium.	Cri9333_1256	1412878..1414128	"hypothetical protein"
+YP_007148306	434405421	NC_019757	Cylindrospermum stagnale PCC 7417| Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Cylindrospermum.	Cylst_3483	complement(3967270..3968553)	"hypothetical protein"
+YP_006360418	389858176			
+YP_598543	94990443	NC_008022	Streptococcus pyogenes MGAS10270| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.	MGAS10270_Spy0934	complement(888683..889645)	"Polysaccharide deacetylase"
+YP_002482268	220906957	NC_011884	Cyanothece sp. PCC 7425| Bacteria; Cyanobacteria; Oscillatoriophycideae; Chroococcales; Cyanothece.	Cyan7425_1537	complement(1376756..1377898)	"hypothetical protein"
+YP_515867	89898757			
+YP_004639406	337745244	NC_015690	Paenibacillus mucilaginosus KNP414| Bacteria; Firmicutes; Bacilli; Bacillales; Paenibacillaceae; Paenibacillus.	KNP414_00946	987565..988590	"polysaccharide deacetylase"
+YP_008194339	522651876	NC_021716	Alteromonas macleodii str. 'English Channel 615'| Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Alteromonadaceae; Alteromonas.	I633_20915	4269216..4270391	"Polysaccharide deacetylase family protein"
+NP_443043	16332315	NC_000911	Synechocystis sp. PCC 6803| Bacteria; Cyanobacteria; Oscillatoriophycideae; Chroococcales; Synechocystis.	slr0592	3546840..3548315	"hypothetical protein"
+YP_004041851	313203194	NC_014734	Paludibacter propionicigenes WB4| Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Porphyromonadaceae; Paludibacter.	Palpr_0710	857616..858479	"polysaccharide deacetylase"
+YP_003473936	289548948	NC_013894	Thermocrinis albus DSM 14484| Bacteria; Aquificae; Aquificales; Aquificaceae; Thermocrinis.	Thal_1177	1098429..1099454	"polysaccharide deacetylase"
+YP_002888103	237802909			
+YP_001136893	145294072	NC_009342	Corynebacterium glutamicum R| Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Corynebacteriaceae; Corynebacterium.	cgR_0030	34804..35556	"hypothetical protein"
+YP_007452918	451816466	NC_020286	Synechocystis sp. PCC 6803| Bacteria; Cyanobacteria; Oscillatoriophycideae; Chroococcales; Synechocystis.	MYO_131850	3542931..3544406	"hypothetical protein"
+YP_006804819	407689646	NC_018679	Alteromonas macleodii str. 'Balearic Sea AD45'| Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Alteromonadaceae; Alteromonas.	AMBAS45_19415	4551615..4552841	"Polysaccharide deacetylase family protein"
+YP_001003123	121998336	NC_008789	Halorhodospira halophila SL1| Bacteria; Proteobacteria; Gammaproteobacteria; Chromatiales; Ectothiorhodospiraceae; Halorhodospira.	Hhal_1557	1692743..1693711	"polysaccharide deacetylase"
+YP_007163240	428771450	NC_019776	Cyanobacterium aponinum PCC 10605| Bacteria; Cyanobacteria; Oscillatoriophycideae; Chroococcales; Cyanobacterium.	Cyan10605_3145	3717504..3718928	"hypothetical protein"
+YP_008349196	527322999			
+YP_001627011	163842607	NC_010169	Brucella suis ATCC 23445| Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Brucella.	BSUIS_A0349	complement(350610..351311)	"polysaccharide deacetylase"
+YP_005814290	385245467			
+YP_008354057	527327866			
+YP_001258358	148559447	NC_009505	Brucella ovis ATCC 25840| Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Brucella.	BOV_0336	complement(354735..355436)	"polysaccharide deacetylase family protein"
+YP_003324041	269839349	NC_013526	Thermobaculum terrenum ATCC BAA-798| Bacteria; Thermobaculum.	Tter_2320	472830..473771	"polysaccharide deacetylase"
+YP_007652699	471270234	NC_020815	Xanthomonas citri subsp. citri Aw12879| Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Xanthomonadaceae; Xanthomonas.	XCAW_04743	complement(5316144..5318846)	"polysaccharide deacetylase"
+YP_203274	58584258	NC_006834	Xanthomonas oryzae pv. oryzae KACC 10331| Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Xanthomonadaceae; Xanthomonas.	XOO4635	complement(4936094..4938796)	"polysaccharide deacetylase"
+YP_006078180	386581776	NC_017619	Streptococcus suis SS12| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.	SSU12_0745	complement(779674..780597)	"xylanase/chitin deacetylase"
+YP_001792099	171059750	NC_010524	Leptothrix cholodnii SP-6| Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Leptothrix.	Lcho_3074	3403152..3404117	"polysaccharide deacetylase"
+YP_007734010	478459942			
+YP_006932892	410680490	NC_018936	Streptococcus pyogenes A20| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.	A20_0857c	complement(812515..813477)	"polysaccharide deacetylase family protein"
+YP_008467918	532424398			
+YP_045345	50083835	NC_005966	Acinetobacter sp. ADP1| Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Moraxellaceae; Acinetobacter.	ACIAD0600	590113..590868	"polysaccharide deacetylase"
+YP_001653825	166155570			
+YP_007278336	433651957	NC_019960	Prevotella dentalis DSM 3688| Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Prevotellaceae; Prevotella.	Prede_0965	1169766..1170671	"putative xylanase/chitin deacetylase"
+YP_001063757	126445188	NC_009075	Burkholderia pseudomallei 668| Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Burkholderia; pseudomallei group.	BURPS668_A2765	2636217..2637881	"polysaccharide deacetylase domain-containing protein"
+YP_005207367	378949879	NC_016830	Pseudomonas fluorescens F113| Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas.	PSF113_1960	complement(2298096..2299100)	"polysaccharide deacetylase"
+YP_005527292	384144582	NC_017171	Acinetobacter baumannii MDR-ZJ06| Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Moraxellaceae; Acinetobacter; Acinetobacter calcoaceticus/baumannii complex.	ABZJ_03336	complement(3440072..3440827)	"putative polysaccharide deacetylase"
+YP_880393	118465393	NC_008595	Mycobacterium avium 104| Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Mycobacteriaceae; Mycobacterium; Mycobacterium avium complex (MAC).	MAV_1144	1086062..1087078	"polysaccharide deacetylase"
+YP_006080404	386584001	NC_017620	Streptococcus suis D9| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.	SSUD9_0949	complement(954436..955359)	"polysaccharide deacetylase"
+YP_453398	84626026	NC_007705	Xanthomonas oryzae pv. oryzae MAFF 311018| Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Xanthomonadaceae; Xanthomonas.	XOO_4369	complement(4934856..4937558)	"polysaccharide deacetylase"
+YP_007647628	471264774	NC_020814	Hydrogenobaculum sp. SN| Bacteria; Aquificae; Aquificales; Aquificaceae; Hydrogenobaculum.	HydSN_1244	1133351..1134364	"putative xylanase/chitin deacetylase"
+YP_060134	50914162	NC_006086	Streptococcus pyogenes MGAS10394| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.	M6_Spy0816	complement(822364..823326)	"polysaccharide deacetylase"
+YP_008344511	527318309			
+YP_005599796	384210714	NC_017246	Brucella melitensis M5-90| Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Brucella.	BM590_A0348	complement(354278..354982)	"polysaccharide deacetylase"
+YP_007225216	431798312	NC_019904	Echinicola vietnamensis DSM 17526| Bacteria; Bacteroidetes; Cytophagia; Cytophagales; Cyclobacteriaceae; Echinicola.	Echvi_2968	complement(3545753..3546652)	"xylanase/chitin deacetylase"
+YP_002992956	242280827	NC_012881	Desulfovibrio salexigens DSM 2638| Bacteria; Proteobacteria; Deltaproteobacteria; Desulfovibrionales; Desulfovibrionaceae; Desulfovibrio.	Desal_3367	complement(3762290..3764365)	"group 1 glycosyl transferase"
+YP_328304	76789218			
+YP_007972678	499077200	NC_021200	Mycobacterium avium subsp. paratuberculosis MAP4| Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Mycobacteriaceae; Mycobacterium; Mycobacterium avium complex (MAC).	MAP4_2889	complement(3200351..3201367)	"polysaccharide deacetylase"
+YP_005372838	383458849	NC_017030	Corallococcus coralloides DSM 2259| Bacteria; Proteobacteria; Deltaproteobacteria; Myxococcales; Cystobacterineae; Myxococcaceae; Corallococcus.	COCOR_06886	complement(8645006..8645452)	"xylanase/chitin deacetylase family protein"
+YP_004397511	331700552	NC_015428	Lactobacillus buchneri NRRL B-30929| Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae; Lactobacillus.	Lbuc_0162	169558..170448	"polysaccharide deacetylase"
+YP_008210704	523524625	NC_021726	Acinetobacter baumannii BJAB07104| Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Moraxellaceae; Acinetobacter; Acinetobacter calcoaceticus/baumannii complex.	BJAB07104_03241	complement(3415184..3415936)	"putative xylanase/chitin deacetylase"
+YP_008177850	522591773	NC_021712	Alteromonas macleodii str. 'Ionian Sea U8'| Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Alteromonadaceae; Alteromonas.	I634_18860	4291745..4292920	"polysaccharide deacetylase family protein"
+YP_001869358	186686162	NC_010628	Nostoc punctiforme PCC 73102| Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nostoc.	Npun_R6127	complement(7575900..7577147)	"hypothetical protein"
+YP_006288491	387122609	NC_017847	Acinetobacter baumannii MDR-TJ| Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Moraxellaceae; Acinetobacter; Acinetobacter calcoaceticus/baumannii complex.	ABTJ_00553	560095..560850	"putative xylanase/chitin deacetylase"
+YP_008756287	556588733	NC_022665	Streptococcus suis T15| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.	T15_1156	1179551..1180288	"xylanase/chitin deacetylase"
+YP_008350155	527323959			
+YP_245384	77761345	NC_007086	Xanthomonas campestris pv. campestris str. 8004| Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Xanthomonadaceae; Xanthomonas.	XC_4329	complement(5143350..5146055)	"polysaccharide deacetylase"
+YP_005063103	374316675	NC_016633	Sphaerochaeta pleomorpha str. Grapes| Bacteria; Spirochaetes; Spirochaetales; Spirochaetaceae; Sphaerochaeta.	SpiGrapes_2318	complement(2540902..2541825)	"putative xylanase/chitin deacetylase"
+YP_003809051	302344522	NC_014365	Desulfarculus baarsii DSM 2075| Bacteria; Proteobacteria; Deltaproteobacteria; Desulfarculales; Desulfarculaceae; Desulfarculus.	Deba_3104	complement(3440271..3441272)	"polysaccharide deacetylase"
+NP_697354	23501227	NC_004310	Brucella suis 1330| Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Brucella.	BR0320	complement(333085..333786)	"polysaccharide deacetylase"
+YP_008218452	523532425	NC_021733	Acinetobacter baumannii BJAB0715| Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Moraxellaceae; Acinetobacter; Acinetobacter calcoaceticus/baumannii complex.	BJAB0715_03304	complement(3444064..3444819)	"putative xylanase/chitin deacetylase"
+YP_004401559	330832734	NC_015433	Streptococcus suis ST3| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.	SSUST3_0936	complement(948496..949419)	"polysaccharide deacetylase"
+YP_001663260	167040275	NC_010320	Thermoanaerobacter sp. X514| Bacteria; Firmicutes; Clostridia; Thermoanaerobacterales; Thermoanaerobacteraceae; Thermoanaerobacter.	Teth514_1638	complement(1655103..1655819)	"polysaccharide deacetylase"
+YP_004907843	357393002	NC_016109	Kitasatospora setae KM-6054| Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Streptomycineae; Streptomycetaceae; Kitasatospora.	KSE_61210	6888977..6889909	"putative hydrolase"
+YP_536616	90962700	NC_007929	Lactobacillus salivarius UCC118| Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae; Lactobacillus.	LSL_1731	1820217..1821017	"polysaccharide deacetylase"
+YP_003852000	304316855	NC_014410	Thermoanaerobacterium thermosaccharolyticum DSM 571| Bacteria; Firmicutes; Clostridia; Thermoanaerobacterales; Thermoanaerobacterales Family III. Incertae Sedis; Thermoanaerobacterium.	Tthe_1402	complement(1409531..1410238)	"polysaccharide deacetylase"
+YP_005808771	385240930			
+YP_004238467	325954807	NC_015144	Weeksella virosa DSM 16922| Bacteria; Bacteroidetes; Flavobacteriia; Flavobacteriales; Flavobacteriaceae; Weeksella.	Weevi_1180	1244037..1244903	"polysaccharide deacetylase"
+YP_008045515	507523901	NC_021290	Aeromonas hydrophila ML09-119| Bacteria; Proteobacteria; Gammaproteobacteria; Aeromonadales; Aeromonadaceae; Aeromonas.	AHML_22060	complement(4963519..4965282)	"protein WavL"
+YP_007921508	488605414	NC_021174	Burkholderia thailandensis MSMB121| Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Burkholderia; pseudomallei group.	BTI_5062	complement(1820899..1821720)	"polysaccharide deacetylase family protein"
+YP_004186188	320116029	NC_014964	Thermoanaerobacter brockii subsp. finnii Ako-1| Bacteria; Firmicutes; Clostridia; Thermoanaerobacterales; Thermoanaerobacteraceae; Thermoanaerobacter.	Thebr_1231	complement(1242572..1243288)	"polysaccharide deacetylase"
+YP_001140042	145297201	NC_009348	Aeromonas salmonicida subsp. salmonicida A449| Bacteria; Proteobacteria; Gammaproteobacteria; Aeromonadales; Aeromonadaceae; Aeromonas.	ASA_0095	101906..103666	"polysaccharide deacetylase"
+YP_001916184	188579255	NC_010717	Xanthomonas oryzae pv. oryzae PXO99A| Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Xanthomonadaceae; Xanthomonas.	PXO_03488	complement(5234736..5237432)	"polysaccharide deacetylase"
+YP_282181	71910631	NC_007297	Streptococcus pyogenes MGAS5005| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.	M5005_Spy_0818	complement(813816..814778)	"polysaccharide deacetylase"
+YP_008466060	532419483			
+YP_008840490	560147674	NC_022905	Brucella ceti TE10759-12| Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Brucella.	V910_101624	1650580..1651281	"polysaccharide deacetylase"
+NP_802219	28895869	NC_004606	Streptococcus pyogenes SSI-1| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.	SPs0957	complement(941753..942715)	"hypothetical protein"
+YP_008842992	560150198	NC_022907	Brucella ceti TE28753-12| Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Brucella.	V568_101819	1650722..1651423	"polysaccharide deacetylase"
+YP_008500860	538358832	NC_022239	Streptococcus anginosus C238| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus; Streptococcus anginosus group.	SANR_1142	1173424..1174374	"putative deacetylase"
+YP_006745382	406600036	NC_018631	Leuconostoc gelidum JB7| Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae; Leuconostoc.	C269_05295	complement(1085628..1086536)	"biofilm PIA synthesis deacetylase icab precursor"
+YP_008056844	508127728	NC_021314	Streptococcus iniae SF1| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.	K710_1135	1097427..1098347	"polysaccharide deacetylase"
+YP_005082083	374331899	NC_016642	Pseudovibrio sp. FO-BEG1| Bacteria; Proteobacteria; Alphaproteobacteria; Rhodobacterales; Rhodobacteraceae; Pseudovibrio.	PSE_3557	complement(3867021..3868013)	"polysaccharide deacetylase"
+YP_003318590	269836362	NC_013523	Sphaerobacter thermophilus DSM 20745| Bacteria; Chloroflexi; Sphaerobacteridae; Sphaerobacterales; Sphaerobacterineae; Sphaerobacteraceae; Sphaerobacter.	Sthe_0329	367593..368711	"polysaccharide deacetylase"
+YP_004173846	320160622	NC_014960	Anaerolinea thermophila UNI-1| Bacteria; Chloroflexi; Anaerolineae; Anaerolineales; Anaerolineaceae; Anaerolinea.	ANT_12120	complement(1355823..1357130)	"hypothetical protein"
+YP_006082543	386586141	NC_017621	Streptococcus suis D12| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.	SSUD12_0982	993172..994095	"xylanase/chitin deacetylase"
+YP_008243098	525809612	NC_021807	Streptococcus pyogenes HSC5| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.	L897_04115	complement(797985..798947)	"deacetylase"
+YP_596668	94988567	NC_008021	Streptococcus pyogenes MGAS9429| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.	MGAS9429_Spy0937	complement(897738..898700)	"polysaccharide deacetylase"
+YP_004273296	325103642	NC_015177	Pedobacter saltans DSM 12145| Bacteria; Bacteroidetes; Sphingobacteriia; Sphingobacteriales; Sphingobacteriaceae; Pedobacter.	Pedsa_0902	complement(1098040..1098933)	"polysaccharide deacetylase"
+YP_007730432	478474356			
+YP_007074634	427728397	NC_019684	Nostoc sp. PCC 7524| Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nostoc.	Nos7524_1145	1315536..1316783	"hypothetical protein"
+YP_007742918	478468045			
+YP_001198167	146318455	NC_009442	Streptococcus suis 05ZYH33| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.	SSU05_0802	complement(778799..779722)	"xylanase/chitin deacetylase"
+YP_002123433	195978189	NC_011134	Streptococcus equi subsp. zooepidemicus MGCS10565| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.	Sez_1068	1101514..1102434	"polysaccharide deacetylase"
+YP_007719566	478450009			
+YP_007734901	478473453			
+YP_002285853	209559381	NC_011375	Streptococcus pyogenes NZ131| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.	Spy49_0850c	complement(849658..850620)	"polysaccharide deacetylase"
+YP_959065	120554714	NC_008740	Marinobacter aquaeolei VT8| Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Alteromonadaceae; Marinobacter.	Maqu_1796	1998730..1999764	"polysaccharide deacetylase"
+NP_487973	17231425	NC_003272	Nostoc sp. PCC 7120| Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nostoc.	all3933	complement(4748153..4750378)	"hypothetical protein"
+YP_003397082	284046742	NC_013739	Conexibacter woesei DSM 14684| Bacteria; Actinobacteria; Rubrobacteridae; Solirubrobacterales; Conexibacteraceae; Conexibacter.	Cwoe_5301	complement(5665690..5666508)	"polysaccharide deacetylase"
+YP_008509487	538370475	NC_022244	Streptococcus anginosus C1051| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus; Streptococcus anginosus group.	SAIN_1050	1094537..1095487	"putative deacetylase"
+YP_644691	108804754	NC_008148	Rubrobacter xylanophilus DSM 9941| Bacteria; Actinobacteria; Rubrobacteridae; Rubrobacterales; Rubrobacterineae; Rubrobacteraceae; Rubrobacter.	Rxyl_1932	1953631..1954365	"polysaccharide deacetylase"
+YP_004390717	330827765	NC_015424	Aeromonas veronii B565| Bacteria; Proteobacteria; Gammaproteobacteria; Aeromonadales; Aeromonadaceae; Aeromonas.	B565_0065	79397..81157	"putative glycosyltransferase"
+YP_008920598	566720276	NC_023045	Alteromonas macleodii str. 'Aegean Sea MED64'| Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Alteromonadaceae; Alteromonas.	I533_18795	4279163..4280338	"Polysaccharide deacetylase family protein"
+YP_008346390	527320190			
+YP_007063024	427714400	NC_019680	Synechococcus sp. PCC 6312| Bacteria; Cyanobacteria; Oscillatoriophycideae; Chroococcales; Synechococcus.	Syn6312_3454	complement(3382686..3384005)	"hypothetical protein"
+NP_644665	77748781	NC_003919	Xanthomonas axonopodis pv. citri str. 306| Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Xanthomonadaceae; Xanthomonas.	XAC4371	complement(5170199..5172901)	"polysaccharide deacetylase"
+YP_008198184	522669722	NC_021717	Alteromonas macleodii str. 'Ionian Sea U7'| Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Alteromonadaceae; Alteromonas.	I876_19095	4334319..4335494	"polysaccharide deacetylase family protein"
+YP_002996570	251782268	NC_012891	Streptococcus dysgalactiae subsp. equisimilis GGS_124| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.	SDEG_0857	complement(846369..847331)	"polysaccharide deacetylase"
+YP_007164186	428772398	NC_019778	Cyanobacterium stanieri PCC 7202| Bacteria; Cyanobacteria; Oscillatoriophycideae; Chroococcales; Cyanobacterium.	Cyast_0559	629782..631005	"hypothetical protein"
+YP_005812412	385244568			
+YP_005388079	383327225	NC_017039	Synechocystis sp. PCC 6803 substr. PCC-P| Bacteria; Cyanobacteria; Oscillatoriophycideae; Chroococcales; Synechocystis.	SYNPCCP_3147	3543484..3544959	"hypothetical protein"
+YP_004042270	313203613	NC_014734	Paludibacter propionicigenes WB4| Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Porphyromonadaceae; Paludibacter.	Palpr_1138	complement(1386744..1387640)	"polysaccharide deacetylase"
+YP_007500572	452944407	NC_020411	Hydrogenobaculum sp. HO| Bacteria; Aquificae; Aquificales; Aquificaceae; Hydrogenobaculum.	HydHO_1215	1133384..1134397	"polysaccharide deacetylase"
+YP_004772728	343083433	NC_015914	Cyclobacterium marinum DSM 745| Bacteria; Bacteroidetes; Cytophagia; Cytophagales; Cyclobacteriaceae; Cyclobacterium.	Cycma_0723	complement(823794..824693)	"polysaccharide deacetylase"
+YP_005809700	385241860			
+YP_007726719	478456336			
+YP_007852715	482546799			
+YP_002282444	209550527	NC_011369	Rhizobium leguminosarum bv. trifolii WSM2304| Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium.	Rleg2_2950	3007679..3010684	"family 2 glycosyl transferase"
+YP_007724037	478449114			
+YP_007738470	478462649			
+YP_008468846	532427575			
+NP_540520	17987886	NC_003317	Brucella melitensis bv. 1 str. 16M| Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Brucella.	BMEI1603	1648506..1649219	"polysaccharide deacetylase"
+YP_602463	94994365	NC_008024	Streptococcus pyogenes MGAS10750| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.	MGAS10750_Spy0969	complement(919735..920697)	"Polysaccharide deacetylase"
+YP_004794622	344209481	NC_015947	Stenotrophomonas maltophilia JV3| Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Xanthomonadaceae; Stenotrophomonas; Stenotrophomonas maltophilia group.	BurJV3_4084	complement(4539266..4541938)	"polysaccharide deacetylase"
+YP_007081458	428202869	NC_019689	Pleurocapsa sp. PCC 7327| Bacteria; Cyanobacteria; Pleurocapsales; Pleurocapsa.	Ple7327_2617	2827705..2828916	"hypothetical protein"
+YP_479905	86739505	NC_007777	Frankia sp. CcI3| Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Frankineae; Frankiaceae; Frankia.	Francci3_0792	922491..923327	"polysaccharide deacetylase"
+YP_006800887	407685713	NC_018678	Alteromonas macleodii str. 'English Channel 673'| Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Alteromonadaceae; Alteromonas.	AMEC673_19170	4505010..4506236	"Polysaccharide deacetylase family protein"
+YP_002378874	218440545	NC_011729	Cyanothece sp. PCC 7424| Bacteria; Cyanobacteria; Oscillatoriophycideae; Chroococcales; Cyanothece.	PCC7424_3619	complement(4045974..4047287)	"hypothetical protein"
+YP_006904448	410494602	NC_019042	Streptococcus dysgalactiae subsp. equisimilis AC-2713| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.	SDSE_0893	complement(845250..846212)	"polysaccharide deacetylase yxkH"
+YP_005639564	384430203	NC_017271	Xanthomonas campestris pv. raphani 756C| Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Xanthomonadaceae; Xanthomonas.	XCR_4595	complement(4936015..4938774)	"polysaccharide deacetylase"
+YP_001792101	171059752	NC_010524	Leptothrix cholodnii SP-6| Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Leptothrix.	Lcho_3076	3405272..3406048	"polysaccharide deacetylase"
+YP_005310935	379718804	NC_016935	Paenibacillus mucilaginosus 3016| Bacteria; Firmicutes; Bacilli; Bacillales; Paenibacillaceae; Paenibacillus.	PM3016_838	991376..992401	"polysaccharide deacetylase"
+YP_004244795	325968603	NC_015151	Vulcanisaeta moutnovskia 768-28| Archaea; Crenarchaeota; Thermoprotei; Thermoproteales; Thermoproteaceae; Vulcanisaeta.	VMUT_1088	complement(1061507..1062385)	"polysaccharide deacetylase family protein"
+YP_004125407	319761470	NC_014910	Alicycliphilus denitrificans BC| Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Comamonadaceae; Alicycliphilus.	Alide_0754	794292..795305	"polysaccharide deacetylase"
+YP_003071046	254563951	NC_012988	Methylobacterium extorquens DM4| Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Methylobacteriaceae; Methylobacterium.	METDI5637	5609210..5610040	"hypothetical protein"
+YP_001934335	189023567	NC_010742	Brucella abortus S19| Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Brucella.	BAbS19_I03200	complement(353363..354064)	"polysaccharide deacetylase"
+YP_005388864	383479970	NC_017040	Streptococcus pyogenes MGAS15252| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.	MGAS15252_0821	complement(806657..807619)	"polysaccharide deacetylase"
+YP_006361293	389859052			
+YP_002423739	218532923	NC_011757	Methylobacterium extorquens CM4| Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Methylobacteriaceae; Methylobacterium.	Mchl_5046	5396852..5397682	"polysaccharide deacetylase"
+YP_005816116	386262837			
+YP_007587400	470200971	NC_020540	Streptococcus pyogenes M1 476| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.	M1GAS476_0874	complement(832591..833553)	"polysaccharide deacetylase"
+YP_112724	53802644	NC_002977	Methylococcus capsulatus str. Bath| Bacteria; Proteobacteria; Gammaproteobacteria; Methylococcales; Methylococcaceae; Methylococcus.	MCA0187	198875..199819	"hypothetical protein"
+YP_005411562	383493886	NC_017053	Streptococcus pyogenes MGAS1882| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.	MGAS1882_0817	complement(804158..805120)	"polysaccharide deacetylase"
+YP_001770145	170741490	NC_010511	Methylobacterium sp. 4-46| Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Methylobacteriaceae; Methylobacterium.	M446_3306	complement(3662963..3663964)	"polysaccharide deacetylase"
+YP_589366	94967318	NC_008009	Candidatus Koribacter versatilis Ellin345| Bacteria; Acidobacteria; Candidatus Koribacter.	Acid345_0287	complement(299988..302603)	"polysaccharide deacetylase"
+YP_003722298	298492121	NC_014248	NA LOCUS       NC_014248            5354700 bp    DNA     circular CON 10-JUN-2013 DEFINITION  'Nostoc azollae' 0708 chromosome, complete genome. ACCESSION   NC_014248 VERSION     NC_014248.1  GI:298489614 DBLINK      Project: 49725 BioProject: PRJNA49725 KEYWORDS    . SOURCE      'Nostoc azollae' 0708 ORGANISM  'Nostoc azollae' 0708 Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Trichormus.	Aazo_3586	complement(3654813..3656105)	"hypothetical protein"
+YP_005469237	383784667	NC_017094	Leptospirillum ferrooxidans C2-3| Bacteria; Nitrospirae; Nitrospirales; Nitrospiraceae; Leptospirillum.	LFE_1424	complement(1434385..1435110)	"polysaccharide deacetylase"
+YP_006916687	410664316	NC_018868	Simiduia agarivorans SA1 = DSM 21679| Bacteria; Proteobacteria; Gammaproteobacteria; Simiduia.	M5M_08850	complement(1961007..1962044)	"hypothetical protein"
+YP_001958824	189499354	NC_010831	Chlorobium phaeobacteroides BS1| Bacteria; Chlorobi; Chlorobia; Chlorobiales; Chlorobiaceae; Chlorobium/Pelodictyon group; Chlorobium.	Cphamn1_0376	399302..399661	"hypothetical protein"
+YP_002729123	225848959	NC_012438	Sulfurihydrogenibium azorense Az-Fu1| Bacteria; Aquificae; Aquificales; Hydrogenothermaceae; Sulfurihydrogenibium.	SULAZ_1151	complement(1064682..1065716)	"polysaccharide deacetylase"
+YP_007724930	478475261			
+YP_007599902	471314547	NC_020555	Helicobacter cinaedi ATCC BAA-847| Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales; Helicobacteraceae; Helicobacter.	HCBAA847_0010	10496..11272	"hypothetical protein"
+YP_413818	82699244	NC_007618	Brucella abortus 2308| Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Brucella.	BAB1_0350	complement(351346..352047)	"polysaccharide deacetylase"
+YP_007125019	428314042	NC_019738	Microcoleus sp. PCC 7113| Bacteria; Cyanobacteria; Oscillatoriophycideae; Oscillatoriales; Microcoleus.	Mic7113_6013	complement(7039281..7040528)	"hypothetical protein"
+YP_007922967	488651163	NC_021175	Streptococcus oligofermentans AS 1.3089| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.	I872_03575	complement(738218..739150)	"xylanase/chitin deacetylase"
+YP_003772532	300173366	NC_014319	Leuconostoc gasicomitatum LMG 18811| Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae; Leuconostoc.	LEGAS_1065	complement(1086837..1087679)	"biofilm PIA synthesis deacetylase icab precursor"
+YP_631458	108761845	NC_008095	Myxococcus xanthus DK 1622| Bacteria; Proteobacteria; Deltaproteobacteria; Myxococcales; Cystobacterineae; Myxococcaceae; Myxococcus.	MXAN_3259	3811532..3812641	"polysaccharide deacetylase"
+NP_883988	33596345	NC_002928	Bordetella parapertussis 12822| Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Alcaligenaceae; Bordetella.	BPP1713	1829420..1830145	"polysaccharide deacetylase"
+YP_007028986	426408887	NC_019670	Pseudomonas sp. UW4| Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas.	PputUW4_01977	complement(2309861..2310862)	"polysaccharide deacetylase"
+YP_008154849	521467438	NC_021658	Sorangium cellulosum So0157-2| Bacteria; Proteobacteria; Deltaproteobacteria; Myxococcales; Sorangiineae; Polyangiaceae; Sorangium.	SCE1572_42450	complement(11953560..11954585)	"hypothetical protein"
+YP_005152507	376273929	NC_016795	Brucella abortus A13334| Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Brucella.	BAA13334_I03410	2062353..2063054	"polysaccharide deacetylase"
+YP_159470	56477881	NC_006513	Aromatoleum aromaticum EbN1| Bacteria; Proteobacteria; Betaproteobacteria; Rhodocyclales; Rhodocyclaceae; Aromatoleum.	ebA4315	complement(2553582..2554568)	"hypothetical protein"
+YP_005429408	387813925	NC_017067	Marinobacter hydrocarbonoclasticus ATCC 49840| Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Alteromonadaceae; Marinobacter.	MARHY1508	complement(1573446..1574480)	"polysaccharide deacetylase"
+YP_001830890	182682730	NC_010577	Xylella fastidiosa M23| Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Xanthomonadaceae; Xylella.	XfasM23_2223	complement(2530361..2533063)	"polysaccharide deacetylase"
+YP_002888985	237804831			
+YP_007975368	499143304	NC_021213	Streptococcus suis TL13| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.	TL13_1013	1026854..1027591	"Polysaccharide deacetylase"
+YP_007733118	478472551			
+YP_007540181	471328656			
+YP_343959	77165434	NC_007484	Nitrosococcus oceani ATCC 19707| Bacteria; Proteobacteria; Gammaproteobacteria; Chromatiales; Chromatiaceae; Nitrosococcus.	Noc_1967	complement(2253828..2254847)	"polysaccharide deacetylase"
+YP_008602194	549453556	NC_022516	Streptococcus suis YB51| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.	YB51_4625	complement(958530..959396)	"Polysaccharide deacetylase"
+NP_880964	33593320	NC_002929	Bordetella pertussis Tohama I| Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Alcaligenaceae; Bordetella.	BP2326	complement(2458658..2459383)	"polysaccharide deacetylase"
+YP_004582247	336176872	NC_015656	Frankia symbiont of Datisca glomerata| Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Frankineae; Frankiaceae; Frankia.	FsymDg_0813	complement(955918..956730)	"polysaccharide deacetylase"
+YP_007334926	440227835	NC_020059	Rhizobium tropici CIAT 899| Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium.	RTCIAT899_CH15030	complement(3017172..3017873)	"polysaccharide deacetylase family protein"
+YP_006278692	386865744	NC_017832	Burkholderia pseudomallei 1026b| Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Burkholderia; pseudomallei group.	BP1026B_II2068	2579938..2580777	"polysaccharide deacetylase domain-containing protein"
+YP_005603154	384444435	NC_017248	Brucella melitensis NI| Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Brucella.	BMNI_I0346	complement(354220..354903)	"polysaccharide deacetylase"
+YP_008439854	532349963			
+YP_006222565	386749358	NC_017737	Helicobacter cetorum MIT 00-7128| Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales; Helicobacteraceae; Helicobacter.	HCW_03270	692879..693661	"hypothetical protein"
+YP_366215	78050040	NC_007508	Xanthomonas campestris pv. vesicatoria str. 85-10| Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Xanthomonadaceae; Xanthomonas.	XCV4484	complement(5173070..5175772)	"polysaccharide deacetylase precursor"
+YP_600488	94992389	NC_008023	Streptococcus pyogenes MGAS2096| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.	MGAS2096_Spy0892	complement(858511..859473)	"polysaccharide deacetylase"
+YP_003888286	307152902	NC_014501	Cyanothece sp. PCC 7822| Bacteria; Cyanobacteria; Oscillatoriophycideae; Chroococcales; Cyanothece.	Cyan7822_3056	complement(3396571..3397887)	"hypothetical protein"
+YP_006071971	386362640	NC_017596	Streptococcus pyogenes Alab49| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.	SPYALAB49_000817	complement(798298..799260)	"polysaccharide deacetylase family protein"
+YP_007727611	478455421			
+YP_005596436	384407815	NC_017244	Brucella melitensis M28| Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Brucella.	BM28_A0351	complement(354025..354729)	"Polysaccharide deacetylase"
+YP_006895691	410472410	NC_018828	Bordetella parapertussis Bpp5| Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Alcaligenaceae; Bordetella.	BN117_1731	1877673..1878398	"polysaccharide deacetylase"
+YP_002499532	220924230	NC_011894	Methylobacterium nodulans ORS 2060| Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Methylobacteriaceae; Methylobacterium.	Mnod_4358	complement(4405189..4405986)	"polysaccharide deacetylase"
+YP_007570794	476419798	NC_020526	Streptococcus suis SC070731| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.	NJAUSS_0843	complement(905333..905971)	"xylanase/chitin deacetylase"
+YP_007715116	478451810			
+YP_001076652	126456048	NC_009078	Burkholderia pseudomallei 1106a| Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Burkholderia; pseudomallei group.	BURPS1106A_A2622	2564310..2565149	"polysaccharide deacetylase family protein"
+NP_780290	28199976	NC_004556	Xylella fastidiosa Temecula1| Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Xanthomonadaceae; Xylella.	PD2120	complement(2514582..2517284)	"hypothetical protein"
+YP_005807848	385240006			
+YP_004120318	317152270	NC_014844	Desulfovibrio aespoeensis Aspo-2| Bacteria; Proteobacteria; Deltaproteobacteria; Desulfovibrionales; Desulfovibrionaceae; Desulfovibrio.	Daes_0552	584696..586822	"group 1 glycosyl transferase"
+YP_004386638	330823335	NC_015422	Alicycliphilus denitrificans K601| Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Comamonadaceae; Alicycliphilus.	Alide2_0706	732543..733556	"polysaccharide deacetylase"
+YP_008351288	527325094			
+YP_008442622	532352738			
+YP_005590354	384204615	NC_017223	Bordetella pertussis CS| Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Alcaligenaceae; Bordetella.	BPTD_2285	complement(2483294..2484019)	"putative polysaccharide deacetylase"
+YP_003495591	291278756	NC_013939	Deferribacter desulfuricans SSM1| Bacteria; Deferribacteres; Deferribacterales; Deferribacteraceae; Deferribacter.	DEFDS_0334	332009..332974	"polysaccharide deacetylase family protein"
+YP_001642024	163853981	NC_010172	Methylobacterium extorquens PA1| Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Methylobacteriaceae; Methylobacterium.	Mext_4585	5122841..5123671	"polysaccharide deacetylase"
+YP_007720457	478452709			
+YP_280263	71903460	NC_007296	Streptococcus pyogenes MGAS6180| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.	M28_Spy0795	complement(816293..817255)	"polysaccharide deacetylase"
+YP_006186891	386720565	NC_017671	Stenotrophomonas maltophilia D457| Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Xanthomonadaceae; Stenotrophomonas; Stenotrophomonas maltophilia group.	SMD_4236	complement(4763758..4766430)	"Polysaccharide deacetylase, caspase activity"
+YP_007158238	440683443	NC_019771	Anabaena cylindrica PCC 7122| Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Anabaena.	Anacy_3956	4488656..4489873	"protein of unknown function DUF187"
+YP_003402698	284164419	NC_013743	Haloterrigena turkmenica DSM 5511| Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Haloterrigena.	Htur_1133	complement(1182580..1183914)	"polysaccharide deacetylase"
+YP_001776785	170731352	NC_010513	Xylella fastidiosa M12| Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Xanthomonadaceae; Xylella.	Xfasm12_2313	complement(2469792..2472503)	"hypothetical protein"
+YP_005615174	384224010	NC_017251	Brucella suis 1330| Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Brucella.	BS1330_I0321	complement(333071..333772)	"polysaccharide deacetylase family protein"
+YP_008353131	527326939			
+YP_003026631	253753490	NC_012925	Streptococcus suis P1/7| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.	SSU0746	complement(779017..779940)	"polysaccharide deacetylase"
+YP_003904156	307724405	NC_014538	Thermoanaerobacter sp. X513| Bacteria; Firmicutes; Clostridia; Thermoanaerobacterales; Thermoanaerobacteraceae; Thermoanaerobacter.	Thet_1262	1258563..1259279	"polysaccharide deacetylase"
+YP_005431936	383753033	NC_017068	Selenomonas ruminantium subsp. lactilytica TAM6421| Bacteria; Firmicutes; Negativicutes; Selenomonadales; Veillonellaceae; Selenomonas.	SELR_02050	239622..241529	"hypothetical protein"
+YP_001303570	150008827	NC_009615	Parabacteroides distasonis ATCC 8503| Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Porphyromonadaceae; Parabacteroides.	BDI_2217	complement(2606247..2607137)	"hypothetical protein"
+YP_003890126	307154742	NC_014501	Cyanothece sp. PCC 7822| Bacteria; Cyanobacteria; Oscillatoriophycideae; Chroococcales; Cyanothece.	Cyan7822_4960	5398701..5400008	"hypothetical protein"
+YP_007716894	478454515			
+YP_521960	89899489	NC_007908	Albidiferax ferrireducens T118| Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Comamonadaceae; Rhodoferax.	Rfer_0678	707541..708509	"polysaccharide deacetylase"
+YP_004429130	543892553	NC_011138	Alteromonas macleodii str. 'Deep ecotype'| Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Alteromonadaceae; Alteromonas.	MADE_1020050	4376039..4377241	"polysaccharide deacetylase"
+YP_322286	75907990	NC_007413	Anabaena variabilis ATCC 29413| Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Anabaena.	Ava_1769	2204397..2206679	"hypothetical protein"
+YP_001995406	193214207	NC_011026	Chloroherpeton thalassium ATCC 35110| Bacteria; Chlorobi; Chlorobia; Chlorobiales; Chlorobiaceae; Chloroherpeton.	Ctha_0488	570203..571015	"polysaccharide deacetylase"
+NP_772945	27381416	NC_004463	Bradyrhizobium diazoefficiens USDA 110| Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Bradyrhizobiaceae; Bradyrhizobium.	bll6305	complement(6943436..6944551)	"hypothetical protein"
+YP_007740247	478471644			
+YP_006849705	407934062	NC_018706	Acinetobacter baumannii TYTH-1| Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Moraxellaceae; Acinetobacter; Acinetobacter calcoaceticus/baumannii complex.	M3Q_3389	complement(3632787..3633542)	"polysaccharide deacetylase"
+YP_001931907	188997656	NC_010730	Sulfurihydrogenibium sp. YO3AOP1| Bacteria; Aquificae; Aquificales; Hydrogenothermaceae; Sulfurihydrogenibium.	SYO3AOP1_1756	1818457..1819512	"polysaccharide deacetylase"
+YP_003776156	300312064	NC_014323	Herbaspirillum seropedicae SmR1| Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Oxalobacteraceae; Herbaspirillum.	Hsero_2752	3140251..3141312	"polysaccharide deacetylase"
+YP_006625456	408414749	NC_018518	Bordetella pertussis 18323| Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Alcaligenaceae; Bordetella.	BN118_0742	800185..800910	"polysaccharide deacetylase"
+YP_006084413	386588012	NC_017622	Streptococcus suis A7| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.	SSUA7_0743	complement(783324..784247)	"xylanase/chitin deacetylase"
+YP_008469773	532431625			
+YP_001085909	126642925	NC_009085	Acinetobacter baumannii ATCC 17978| Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Moraxellaceae; Acinetobacter; Acinetobacter calcoaceticus/baumannii complex.	A1S_2901	complement(3353576..3354214)	"polysaccharide deacetylase"
+YP_008347306	527321107			
+YP_004755430	340789966	NC_015857	Brucella pinnipedialis B2/94| Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Brucella.	BPI_I355	complement(354846..355547)	"polysaccharide deacetylase"
+YP_003176727	257386954	NC_013202	Halomicrobium mukohataei DSM 12286| Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halomicrobium.	Hmuk_0890	858248..859108	"polysaccharide deacetylase"
+YP_007851773	482545855			
+YP_675294	110635086	NC_008254	Chelativorans sp. BNC1| Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Phyllobacteriaceae; Chelativorans.	Meso_2752	complement(2998288..2999043)	"polysaccharide deacetylase"
+YP_003028824	253755684	NC_012926	Streptococcus suis BM407| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.	SSUBM407_1087	1168079..1169002	"polysaccharide deacetylase"
+YP_007638739	470474171	NC_020800	Xanthomonas axonopodis Xac29-1| Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Xanthomonadaceae; Xanthomonas.	XAC29_22005	complement(5148100..5150802)	"polysaccharide deacetylase"
+YP_002030424	194367814	NC_011071	Stenotrophomonas maltophilia R551-3| Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Xanthomonadaceae; Stenotrophomonas; Stenotrophomonas maltophilia group.	Smal_4042	complement(4568752..4571424)	"polysaccharide deacetylase"
+NP_219995	15605209			
+YP_007729394	478470753			
+YP_005813341	385270181			
+YP_008181867	522616177	NC_021713	Alteromonas macleodii str. 'Ionian Sea UM7'| Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Alteromonadaceae; Alteromonas.	I635_19870	4488435..4489610	"polysaccharide deacetylase family protein"
+YP_008354982	527328792			
+YP_007076132	427729895	NC_019684	Nostoc sp. PCC 7524| Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nostoc.	Nos7524_2702	3286886..3289099	"hypothetical protein"
+YP_001706171	169632435	NC_010400	Acinetobacter baumannii SDF| Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Moraxellaceae; Acinetobacter; Acinetobacter calcoaceticus/baumannii complex.	ABSDF0528	486340..487095	"polysaccharide deacetylase"
+YP_104986	53717575	NC_006349	Burkholderia mallei ATCC 23344| Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Burkholderia; pseudomallei group.	BMAA0150	complement(148144..148983)	"polysaccharide deacetylase"
+YP_006649631	403061415	NC_018526	Streptococcus suis S735| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.	YYK_03570	complement(774889..775812)	"xylanase/chitin deacetylase"
+YP_006749896	406598766	NC_018632	Alteromonas macleodii ATCC 27126| Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Alteromonadaceae; Alteromonas.	MASE_19290	4528513..4529739	"Polysaccharide deacetylase family protein"
+YP_245667	67078047			
+YP_006076237	386579832	NC_017618	Streptococcus suis JS14| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.	SSUJS14_0883	complement(902492..903415)	"xylanase/chitin deacetylase"
+YP_002746429	225870482	NC_012471	Streptococcus equi subsp. equi 4047| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.	SEQ_1120	complement(1109826..1110791)	"polysaccharide deacetylase"
+YP_003676957	297544655	NC_014209	Thermoanaerobacter mathranii subsp. mathranii str. A3| Bacteria; Firmicutes; Clostridia; Thermoanaerobacterales; Thermoanaerobacteraceae; Thermoanaerobacter.	Tmath_1231	complement(1238418..1239134)	"polysaccharide deacetylase"
+YP_006234465	386760830	NC_017761	Helicobacter cinaedi PAGU611| Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales; Helicobacteraceae; Helicobacter.	HCN_0010	10496..11272	"hypothetical protein"
+YP_005800247	385238908	NC_017387	Acinetobacter baumannii TCDC-AB0715| Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Moraxellaceae; Acinetobacter; Acinetobacter calcoaceticus/baumannii complex.	ABTW07_3371	complement(3607511..3608242)	"putative polysaccharide deacetylase"
+YP_001035007	125717874	NC_009009	Streptococcus sanguinis SK36| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.	SSA_1042	complement(1057599..1058564)	"xylanase/chitin deacetylase"
+YP_002324484	215482302	NC_011595	Acinetobacter baumannii AB307-0294| Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Moraxellaceae; Acinetobacter; Acinetobacter calcoaceticus/baumannii complex.	ABBFA_000560	586979..587734	"polysaccharide deacetylase family protein"
+YP_007541057	478428617			
+YP_007075533	427729296	NC_019684	Nostoc sp. PCC 7524| Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nostoc.	Nos7524_2084	2551233..2552483	"hypothetical protein"
+YP_007728509	478466258			
+YP_003978057	311105204	NC_014640	Achromobacter xylosoxidans A8| Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Alcaligenaceae; Achromobacter.	AXYL_02013	2141607..2142332	"polysaccharide deacetylase"
+YP_003272267	262201059	NC_013441	Gordonia bronchialis DSM 43247| Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Gordoniaceae; Gordonia.	Gbro_1065	complement(1121557..1122474)	"polysaccharide deacetylase"
+YP_004820048	345017695	NC_015958	Thermoanaerobacter wiegelii Rt8.B1| Bacteria; Firmicutes; Clostridia; Thermoanaerobacterales; Thermoanaerobacteraceae; Thermoanaerobacter.	Thewi_1342	complement(join(1353766..1354230,1354230..1354481))	"hypothetical protein"
+YP_001974319	190576474	NC_010943	Stenotrophomonas maltophilia K279a| Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Xanthomonadaceae; Stenotrophomonas; Stenotrophomonas maltophilia group.	Smlt4692	complement(4845680..4848352)	"polysaccharide deacetylase family protein"
+NP_488121	17231573	NC_003272	Nostoc sp. PCC 7120| Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nostoc.	all4081	complement(4913135..4914427)	"hypothetical protein"
+YP_003117085	256395521	NC_013131	Catenulispora acidiphila DSM 44928| Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Catenulisporineae; Catenulisporaceae; Catenulispora.	Caci_6390	7354882..7355598	"polysaccharide deacetylase"
+YP_001617935	162455568	NC_010162	Sorangium cellulosum So ce56| Bacteria; Proteobacteria; Deltaproteobacteria; Myxococcales; Sorangiineae; Polyangiaceae; Sorangium.	sce7286	complement(10166259..10167356)	"polysaccharide deacetylase"
+YP_007148120	434405235	NC_019757	Cylindrospermum stagnale PCC 7417| Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Cylindrospermum.	Cylst_3285	3765745..3766968	"hypothetical protein"
+YP_008214523	523528492	NC_021729	Acinetobacter baumannii BJAB0868| Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Moraxellaceae; Acinetobacter; Acinetobacter calcoaceticus/baumannii complex.	BJAB0868_03199	complement(3378728..3379480)	"putative xylanase/chitin deacetylase"
+YP_005168624	376297394	NC_016803	Desulfovibrio desulfuricans ND132| Bacteria; Proteobacteria; Deltaproteobacteria; Desulfovibrionales; Desulfovibrionaceae; Desulfovibrio.	DND132_2618	2913593..2915725	"group 1 glycosyl transferase"
+YP_007723134	478469854			
+YP_008656161	651866874	NC_022549	Acholeplasma brassicae| Bacteria; Tenericutes; Mollicutes; Acholeplasmatales; Acholeplasmataceae; Acholeplasma.	BN85301190	140696..141385	"Polysaccharide deacetylase"
+YP_004569563	336114796	NC_015634	Bacillus coagulans 2-6| Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus.	BCO26_2119	complement(2148682..2149617)	"polysaccharide deacetylase"
+YP_008185743	522817514	NC_021714	Alteromonas macleodii str. 'Ionian Sea UM4b'| Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Alteromonadaceae; Alteromonas.	I636_19020	4306992..4308167	"polysaccharide deacetylase family protein"
+YP_006978804	410863570	NC_019393	Alteromonas macleodii AltDE1| Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Alteromonadaceae; Alteromonas.	amad1_19880	4506834..4508009	"polysaccharide deacetylase family protein"
+YP_002952220	239905481	NC_012796	Desulfovibrio magneticus RS-1| Bacteria; Proteobacteria; Deltaproteobacteria; Desulfovibrionales; Desulfovibrionaceae; Desulfovibrio.	DMR_08430	945413..947392	"hypothetical protein"
+YP_002952067	239905328	NC_012796	Desulfovibrio magneticus RS-1| Bacteria; Proteobacteria; Deltaproteobacteria; Desulfovibrionales; Desulfovibrionaceae; Desulfovibrio.	DMR_06900	769283..770128	"polysaccharide deacetylase domain protein"
+YP_008591040	545642289	NC_022444	Desulfovibrio gigas DSM 1382 = ATCC 19364| Bacteria; Proteobacteria; Deltaproteobacteria; Desulfovibrionales; Desulfovibrionaceae; Desulfovibrio.	DGI_2106	complement(2195093..2196133)	"putative polysaccharide deacetylase"
+YP_111934	53722949	NC_006351	Burkholderia pseudomallei K96243| Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Burkholderia; pseudomallei group.	BPSS1928	2611158..2611997	"hypothetical protein"
+YP_003798489	302038167	NC_014355	Candidatus Nitrospira defluvii| Bacteria; Nitrospirae; Nitrospirales; Nitrospiraceae; Nitrospira.	NIDE2861	complement(2795544..2796491)	"putative polysaccharide deacetylase"
+YP_003477006	289578379	NC_013921	Thermoanaerobacter italicus Ab9| Bacteria; Firmicutes; Clostridia; Thermoanaerobacterales; Thermoanaerobacteraceae; Thermoanaerobacter.	Thit_1180	complement(1214880..1215596)	"polysaccharide deacetylase"
+YP_008348254	527322056			
+YP_006901411	410420962	NC_018829	Bordetella bronchiseptica MO149| Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Alcaligenaceae; Bordetella.	BN115_3182	complement(3470845..3471570)	"polysaccharide deacetylase"
+YP_008173770	522571341	NC_021710	Alteromonas macleodii str. 'Ionian Sea U4'| Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Alteromonadaceae; Alteromonas.	I607_18720	4214520..4215695	"polysaccharide deacetylase family protein"
+YP_006422379	390958622	NC_018014	Terriglobus roseus DSM 18391| Bacteria; Acidobacteria; Acidobacteriales; Acidobacteriaceae; Terriglobus.	Terro_2808	3367215..3368213	"putative xylanase/chitin deacetylase"
+YP_005864487	385841163	NC_017481	Lactobacillus salivarius CECT 5713| Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae; Lactobacillus.	HN6_01469	1820970..1821770	"polysaccharide deacetylase"
+YP_006256899	387791834	NC_017770	Solitalea canadensis DSM 3403| Bacteria; Bacteroidetes; Sphingobacteriia; Sphingobacteriales; Sphingobacteriaceae; Solitalea.	Solca_2689	3190070..3190951	"putative xylanase/chitin deacetylase"
+YP_004412618	330838038	NC_015437	Selenomonas sputigena ATCC 35185| Bacteria; Firmicutes; Negativicutes; Selenomonadales; Veillonellaceae; Selenomonas.	Selsp_0181	204705..207326	"hypothetical protein"
+YP_007465971	451945335	NC_020302	Corynebacterium halotolerans YIM 70093 = DSM 44683| Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Corynebacteriaceae; Corynebacterium.	A605_13065	complement(2901033..2901755)	"hypothetical protein"
+YP_004607448	336452982	NC_015674	Helicobacter bizzozeronii CIII-1| Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales; Helicobacteraceae; Helicobacter.	HBZC1_07500	complement(713212..714018)	"Bll1083 protein"
+YP_002121889	195953599	NC_011126	Hydrogenobaculum sp. Y04AAS1| Bacteria; Aquificae; Aquificales; Aquificaceae; Hydrogenobaculum.	HY04AAS1_1226	1136857..1137870	"polysaccharide deacetylase"
+YP_003021356	253700167	NC_012918	Geobacter sp. M21| Bacteria; Proteobacteria; Deltaproteobacteria; Desulfuromonadales; Geobacteraceae; Geobacter.	GM21_1542	complement(1804251..1805072)	"polysaccharide deacetylase"
+YP_001200359	146320648	NC_009443	Streptococcus suis 98HAH33| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.	SSU98_0802	complement(778534..779457)	"xylanase/chitin deacetylase"
+YP_008352210	527326017			
+YP_006439631	392403019	NC_018020	Turneriella parva DSM 21527| Bacteria; Spirochaetes; Spirochaetales; Leptospiraceae; Turneriella.	Turpa_1477	1479125..1480426	"polysaccharide deacetylase"
+YP_006362168	389859928			
+YP_007049990	427707613	NC_019676	Nostoc sp. PCC 7107| Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nostoc.	Nos7107_2224	2603500..2605872	"hypothetical protein"
+YP_005156316	376282490			
+YP_006000359	386084077	NC_017562	Xylella fastidiosa subsp. fastidiosa GB514| Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Xanthomonadaceae; Xylella.	XFLM_05195	complement(1114869..1117571)	"polysaccharide deacetylase"
+YP_347747	77458242	NC_007492	Pseudomonas fluorescens Pf0-1| Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas.	Pfl01_2015	complement(2297622..2298623)	"polysaccharide deacetylase"
+YP_858653	117619185	NC_008570	Aeromonas hydrophila subsp. hydrophila ATCC 7966| Bacteria; Proteobacteria; Gammaproteobacteria; Aeromonadales; Aeromonadaceae; Aeromonas.	AHA_4231	complement(4683630..4685480)	"protein WavL"
+YP_006445905	392409298	NC_018025	Desulfomonile tiedjei DSM 6799| Bacteria; Proteobacteria; Deltaproteobacteria; Syntrophobacterales; Syntrophaceae; Desulfomonile.	Desti_0922	complement(1080852..1081769)	"putative xylanase/chitin deacetylase"
+YP_006757253	406706900	NC_018643	alpha proteobacterium HIMB5| Bacteria; Proteobacteria; Alphaproteobacteria; SAR11 cluster.	HIMB5_00013380	1227317..1228237	"polysaccharide deacetylase"
+YP_004772716	343083421	NC_015914	Cyclobacterium marinum DSM 745| Bacteria; Bacteroidetes; Cytophagia; Cytophagales; Cyclobacteriaceae; Cyclobacterium.	Cycma_0711	805698..806720	"polysaccharide deacetylase"
+YP_001470535	157363768	NC_009828	Thermotoga lettingae TMO| Bacteria; Thermotogae; Thermotogales; Thermotogaceae; Thermotoga.	Tlet_0905	complement(925162..926151)	"polysaccharide deacetylase"
+YP_008440780	532350888			
+YP_008921346	568111739			
+NP_924240	37520863	NC_005125	Gloeobacter violaceus PCC 7421| Bacteria; Cyanobacteria; Gloeobacteria; Gloeobacterales; Gloeobacter.	glr1294	1375106..1377496	"hypothetical protein"
+YP_008923667	568127020	NC_023061	Achromobacter xylosoxidans NBRC 15126 = ATCC 27061| Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Alcaligenaceae; Achromobacter.	AX27061_1901	2085343..2086050	"Carbohydrate Esterase Family 4"
+YP_007732226	478459042			
+NP_889929	33602369	NC_002927	Bordetella bronchiseptica RB50| Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Alcaligenaceae; Bordetella.	BB3395	complement(3632871..3633596)	"polysaccharide deacetylase"
+YP_002320712	213157914	NC_011586	Acinetobacter baumannii AB0057| Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Moraxellaceae; Acinetobacter; Acinetobacter calcoaceticus/baumannii complex.	AB57_3406	complement(3513827..3514582)	"putative polysaccharide deacetylase"
+YP_374888	78186845	NC_007512	Chlorobium luteolum DSM 273| Bacteria; Chlorobi; Chlorobia; Chlorobiales; Chlorobiaceae; Chlorobium/Pelodictyon group; Pelodictyon.	Plut_0983	1108787..1111279	"xylanase/chitin deacetylase-like protein"
+YP_007721352	478450910			
+YP_002538397	222056035	NC_011979	Geobacter daltonii FRC-32| Bacteria; Proteobacteria; Deltaproteobacteria; Desulfuromonadales; Geobacteraceae; Geobacter.	Geob_2953	3218957..3219928	"polysaccharide deacetylase"
+NP_607181	19746045	NC_003485	Streptococcus pyogenes MGAS8232| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.	spyM18_1053	complement(874196..875158)	"hypothetical protein"
+YP_007552855	470171969	NC_020516	Azoarcus sp. KH32C| Bacteria; Proteobacteria; Betaproteobacteria; Rhodocyclales; Rhodocyclaceae; Azoarcus.	AZKH_3594	3980108..3980896	"polysaccharide deacetylase"
+YP_006998138	414078820	NC_019427	Anabaena sp. 90| Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Anabaena.	ANA_C13670	complement(4137940..4139211)	"hypothetical protein"
+YP_007735797	478460846			
+YP_941912	119944232	NC_008709	Psychromonas ingrahamii 37| Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Psychromonadaceae; Psychromonas.	Ping_0455	577536..578555	"polysaccharide deacetylase"
+YP_004129384	319778471	NC_014914	Taylorella equigenitalis MCE9| Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Alcaligenaceae; Taylorella.	TEQUI_0294	complement(304067..304948)	"polysaccharide deacetylase"
+NP_664560	21910292	NC_004070	Streptococcus pyogenes MGAS315| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.	SpyM3_0756	complement(811232..812194)	"hypothetical protein"
+YP_005068386	479128426	NC_016640	Arthrospira platensis NIES-39| Bacteria; Cyanobacteria; Oscillatoriophycideae; Oscillatoriales; Arthrospira.	NIES39_D04300	complement(2018755..2020185)	"hypothetical protein"
+YP_005653102	384438377	NC_017277	Synechocystis sp. PCC 6803| Bacteria; Cyanobacteria; Oscillatoriophycideae; Chroococcales; Synechocystis.	SYNGTS_3149	3544473..3545948	"hypothetical protein"
+YP_323640	75909344	NC_007413	Anabaena variabilis ATCC 29413| Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Anabaena.	Ava_3137	3899394..3900686	"hypothetical protein"
+YP_525632	90019805	NC_007912	Saccharophagus degradans 2-40| Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Alteromonadaceae; Saccharophagus.	Sde_0156	complement(193465..194481)	"polysaccharide deacetylase-like protein"
+YP_002732099	225851866	NC_012441	Brucella melitensis ATCC 23457| Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Brucella.	BMEA_A0358	complement(354030..354731)	"polysaccharide deacetylase"
+YP_007718676	478467144			
+YP_007736693	478461743			
+YP_001905870	188993860	NC_010688	Xanthomonas campestris pv. campestris str. B100| Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Xanthomonadaceae; Xanthomonas.	xccb100_4465	complement(5073597..5076356)	"hypothetical protein"
+YP_004776027	343086732	NC_015914	Cyclobacterium marinum DSM 745| Bacteria; Bacteroidetes; Cytophagia; Cytophagales; Cyclobacteriaceae; Cyclobacterium.	Cycma_4090	complement(4956807..4957595)	"polysaccharide deacetylase"
+YP_008736326	556567901	NC_022657	Actinoplanes friuliensis DSM 7358| Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micromonosporineae; Micromonosporaceae; Actinoplanes.	AFR_25035	complement(5418194..5418988)	"hypothetical protein"
+YP_005473751	383789182	NC_017096	Caldisericum exile AZM16c01| Bacteria; Caldiserica; Caldisericia; Caldisericales; Caldisericaceae; Caldisericum.	CSE_15220	complement(1480347..1481240)	"putative hydrolase"
+YP_007731324	478458139			
+YP_002562144	222152967	NC_012004	Streptococcus uberis 0140J| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.	SUB0809	complement(788816..789739)	"polysaccharide deacetylase"
+YP_003953311	310820953	NC_014623	Stigmatella aurantiaca DW4/3-1| Bacteria; Proteobacteria; Deltaproteobacteria; Myxococcales; Cystobacterineae; Cystobacteraceae; Stigmatella.	STAUR_3696	4452713..4453810	"polysaccharide deacetylase family protein"
+YP_003730818	299768792	NC_014259	Acinetobacter oleivorans DR1| Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Moraxellaceae; Acinetobacter.	AOLE_02720	578221..578973	"xylanase/chitin deacetylase"
+YP_003024730	253751589	NC_012924	Streptococcus suis SC84| Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.	SSUSC84_0711	complement(778569..779492)	"polysaccharide deacetylase"
+YP_004415673	332283762	NC_015458	Pusillimonas sp. T7-7| Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Alcaligenaceae; Pusillimonas.	PT7_0509	593433..594140	"polysaccharide deacetylase"
+YP_008741121	556572125	NC_022658	Burkholderia pseudomallei NCTC 13179| Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Burkholderia; pseudomallei group.	BBK_4668	1443315..1443776	"polysaccharide deacetylase family protein"
+YP_008067778	511055808	NC_021352	Corynebacterium glutamicum SCgG2| Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Corynebacteriaceae; Corynebacterium.	C629_00150	34779..35531	"hypothetical protein"
+YP_440509	83716498	NC_007650	Burkholderia thailandensis E264| Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Burkholderia; pseudomallei group.	BTH_II2322	2846158..2847090	"polysaccharide deacetylase"
+YP_005885811	385331860	NC_017506	Marinobacter adhaerens HP15| Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Alteromonadaceae; Marinobacter.	HP15_2119	2217779..2218810	"polysaccharide deacetylase family protein"

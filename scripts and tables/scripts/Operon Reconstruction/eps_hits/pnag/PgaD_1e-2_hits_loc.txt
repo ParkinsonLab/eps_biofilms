@@ -1,0 +1,4 @@
+YP_003733191	299771165	NC_014259	Acinetobacter oleivorans DR1| Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Moraxellaceae; Acinetobacter.	AOLE_14655	complement(3132165..3132584)	"hypothetical protein"
+YP_003599006	295705931	NC_014103	Bacillus megaterium DSM 319| Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus.	BMD_3823	complement(3688163..3688624)	"hypothetical protein"
+YP_001903490	188991480	NC_010688	Xanthomonas campestris pv. campestris str. B100| Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Xanthomonadaceae; Xanthomonas.	xccb100_2085	complement(2418378..2419058)	"hypothetical protein"
+YP_045743	50084233	NC_005966	Acinetobacter sp. ADP1| Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Moraxellaceae; Acinetobacter.	ACIAD1031	1023883..1024302	"hypothetical protein"

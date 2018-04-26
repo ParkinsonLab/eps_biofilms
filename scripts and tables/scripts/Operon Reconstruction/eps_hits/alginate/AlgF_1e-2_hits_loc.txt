@@ -1,0 +1,6 @@
+YP_001533244	159044450	NC_009952	Dinoroseobacter shibae DFL 12 = DSM 16493| Bacteria; Proteobacteria; Alphaproteobacteria; Rhodobacterales; Rhodobacteraceae; Dinoroseobacter.	Dshi_1901	1984363..1984953	"hypothetical protein"
+YP_003846295	302877731	NC_014394	Gallionella capsiferriformans ES-2| Bacteria; Proteobacteria; Betaproteobacteria; Gallionellales; Gallionellaceae; Gallionella.	Galf_0487	complement(532360..532737)	"hypothetical protein"
+YP_008680585	550989975	NC_022576	Candidatus Symbiobacter mobilis CR| Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Comamonadaceae.	Cenrod_0359	402097..402792	"hypothetical protein"
+YP_001526134	158424842	NC_009937	Azorhizobium caulinodans ORS 571| Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Xanthobacteraceae; Azorhizobium.	AZC_3218	3685938..3686636	"cell morphology protein"
+YP_787123	187479098	NC_010645	Bordetella avium 197N| Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Alcaligenaceae; Bordetella.	BAV2625	complement(2832154..2832822)	"cellulose acetylase subunit"
+NP_790868	28868249	NC_004578	Pseudomonas syringae pv. tomato str. DC3000| Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas.	PSPTO_1032	1131383..1132057	"cell morphology protein"

@@ -1,0 +1,1 @@
+YP_005434240	383755337	NC_017068	Selenomonas ruminantium subsp. lactilytica TAM6421| Bacteria; Firmicutes; Negativicutes; Selenomonadales; Veillonellaceae; Selenomonas.	SELR_25090	complement(2652016..2652303)	"hypothetical protein"

@@ -1,0 +1,4 @@
+YP_007467571	451946976	NC_020304	Desulfocapsa sulfexigens DSM 10523| Bacteria; Proteobacteria; Deltaproteobacteria; Desulfobacterales; Desulfobulbaceae; Desulfocapsa.	UWK_01357	1532873..1535113	"Bacterial cellulose synthase subunit"
+YP_002463162	219848729	NC_011831	Chloroflexus aggregans DSM 9485| Bacteria; Chloroflexi; Chloroflexia; Chloroflexales; Chloroflexineae; Chloroflexaceae; Chloroflexus.	Cagg_1829	complement(2241914..2243962)	"cellulose synthase subunit B"
+YP_001278073	148657868	NC_009523	Roseiflexus sp. RS-1| Bacteria; Chloroflexi; Chloroflexia; Chloroflexales; Roseiflexineae; Roseiflexaceae; Roseiflexus.	RoseRS_3769	complement(4712536..4714692)	"hypothetical protein"
+YP_004747841	340781234	NC_015850	Acidithiobacillus caldus SM-1| Bacteria; Proteobacteria; Gammaproteobacteria; Acidithiobacillales; Acidithiobacillaceae; Acidithiobacillus.	Atc_0491	complement(503387..505924)	"cellulose synthase subunit B"

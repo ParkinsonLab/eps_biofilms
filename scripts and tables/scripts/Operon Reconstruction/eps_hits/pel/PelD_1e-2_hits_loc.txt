@@ -1,0 +1,1 @@
+YP_645395	108805458	NC_008148	Rubrobacter xylanophilus DSM 9941| Bacteria; Actinobacteria; Rubrobacteridae; Rubrobacterales; Rubrobacterineae; Rubrobacteraceae; Rubrobacter.	Rxyl_2666	2680998..2682461	"diguanylate cyclase"

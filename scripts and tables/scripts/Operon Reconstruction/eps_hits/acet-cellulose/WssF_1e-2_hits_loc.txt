@@ -1,0 +1,1 @@
+YP_007023298	426404327	NC_019567	Bdellovibrio bacteriovorus str. Tiberius| Bacteria; Proteobacteria; Deltaproteobacteria; Bdellovibrionales; Bdellovibrionaceae; Bdellovibrio.	Bdt_2348	2462359..2463090	"cell morphology protein"

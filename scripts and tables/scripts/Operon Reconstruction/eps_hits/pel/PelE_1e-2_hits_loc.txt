@@ -1,0 +1,3 @@
+YP_002992278	242280149	NC_012881	Desulfovibrio salexigens DSM 2638| Bacteria; Proteobacteria; Deltaproteobacteria; Desulfovibrionales; Desulfovibrionaceae; Desulfovibrio.	Desal_2685	complement(2940195..2941307)	"hypothetical protein"
+YP_008685007	551595714	NC_022579	Desulfovibrio hydrothermalis| Bacteria; Proteobacteria; Deltaproteobacteria; Desulfovibrionales; Desulfovibrionaceae; Desulfovibrio.	DESAM_21834	2206446..2207567	"conserved membrane protein of unknown function"
+YP_007326208	436841830	NC_020055	Desulfovibrio hydrothermalis AM13 = DSM 14728| Bacteria; Proteobacteria; Deltaproteobacteria; Desulfovibrionales; Desulfovibrionaceae; Desulfovibrio.	DESAM_21834	2206446..2207567	"conserved membrane protein of unknown function"

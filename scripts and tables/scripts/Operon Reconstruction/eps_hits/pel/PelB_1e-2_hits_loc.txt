@@ -1,0 +1,4 @@
+YP_002730293	225850059	NC_012440	Persephonella marina EX-H1| Bacteria; Aquificae; Aquificales; Hydrogenothermaceae; Persephonella.	PERMA_0503	complement(456068..457747)	"hypothetical protein"
+YP_004150775	319789142	NC_014926	Thermovibrio ammonificans HB-1| Bacteria; Aquificae; Desulfurobacteriales; Desulfurobacteriaceae; Thermovibrio.	Theam_0161	140348..142099	"hypothetical protein"
+YP_004825470	345303568	NC_015966	Rhodothermus marinus SG0.5JP17-172| Bacteria; Bacteroidetes; Bacteroidetes Order II. Incertae sedis; Rhodothermaceae; Rhodothermus.	Rhom172_1717	complement(1971993..1972772)	"hypothetical protein"
+YP_006720926	404496820	NC_007517	Geobacter metallireducens GS-15| Bacteria; Proteobacteria; Deltaproteobacteria; Desulfuromonadales; Geobacteraceae; Geobacter.	Gmet_1963	2189630..2190529	"hypothetical protein"

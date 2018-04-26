@@ -1,0 +1,6 @@
+YP_001230755	148264049	NC_009483	Geobacter uraniireducens Rf4| Bacteria; Proteobacteria; Deltaproteobacteria; Desulfuromonadales; Geobacteraceae; Geobacter.	Gura_1992	2309068..2309658	"hypothetical protein"
+YP_006891414	409912949	NC_017454	Geobacter sulfurreducens KN400| Bacteria; Proteobacteria; Deltaproteobacteria; Desulfuromonadales; Geobacteraceae; Geobacter.	KN400_2443	complement(2648172..2648771)	"lipoprotein"
+YP_005468290	383783723	NC_017094	Leptospirillum ferrooxidans C2-3| Bacteria; Nitrospirae; Nitrospirales; Nitrospiraceae; Leptospirillum.	LFE_0439	complement(436158..436757)	"hypothetical protein"
+YP_001379021	153004696	NC_009675	Anaeromyxobacter sp. Fw109-5| Bacteria; Proteobacteria; Deltaproteobacteria; Myxococcales; Cystobacterineae; Myxococcaceae; Anaeromyxobacter.	Anae109_1834	2087111..2088280	"putative lipoprotein"
+NP_953544	39997593	NC_002939	Geobacter sulfurreducens PCA| Bacteria; Proteobacteria; Deltaproteobacteria; Desulfuromonadales; Geobacteraceae; Geobacter.	GSU2498	complement(2748458..2749057)	"lipoprotein"
+YP_001379020	153004695	NC_009675	Anaeromyxobacter sp. Fw109-5| Bacteria; Proteobacteria; Deltaproteobacteria; Myxococcales; Cystobacterineae; Myxococcaceae; Anaeromyxobacter.	Anae109_1833	2086567..2087139	"putative lipoprotein"

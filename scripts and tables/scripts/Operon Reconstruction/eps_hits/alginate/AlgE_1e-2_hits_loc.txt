@@ -1,0 +1,2 @@
+YP_001355658	152989936	NC_009662	Nitratiruptor sp. SB155-2| Bacteria; Proteobacteria; Epsilonproteobacteria; Nitratiruptor.	NIS_0187	complement(182536..184806)	"hypothetical protein"
+YP_004151400	319789767	NC_014926	Thermovibrio ammonificans HB-1| Bacteria; Aquificae; Desulfurobacteriales; Desulfurobacteriaceae; Thermovibrio.	Theam_0792	complement(740666..742495)	"Sporulation domain-containing protein"

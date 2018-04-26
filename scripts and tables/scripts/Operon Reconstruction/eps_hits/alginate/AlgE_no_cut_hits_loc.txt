@@ -1,0 +1,13 @@
+YP_821872	116619716	NC_008536	Candidatus Solibacter usitatus Ellin6076| Bacteria; Acidobacteria; Solibacteres; Solibacterales; Solibacteraceae; Candidatus Solibacter.	Acid_0581	complement(711532..712353)	"ABC transporter-like protein"
+YP_007748333	478691523	NC_020990	Streptomyces albus J1074| Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Streptomycineae; Streptomycetaceae; Streptomyces.	XNR_5009	5691097..5691456	"Hypothetical protein"
+YP_001355658	152989936	NC_009662	Nitratiruptor sp. SB155-2| Bacteria; Proteobacteria; Epsilonproteobacteria; Nitratiruptor.	NIS_0187	complement(182536..184806)	"hypothetical protein"
+YP_003255953	261868031	NC_013416	Aggregatibacter actinomycetemcomitans D11S-1| Bacteria; Proteobacteria; Gammaproteobacteria; Pasteurellales; Pasteurellaceae; Aggregatibacter.	D11S_1352	complement(1279781..1280215)	"outer membrane receptor FepA"
+YP_006235333	386761698	NC_017761	Helicobacter cinaedi PAGU611| Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales; Helicobacteraceae; Helicobacter.	HCN_0986	1008796..1010166	"50 kDa outer membrane protein precursor"
+YP_004151400	319789767	NC_014926	Thermovibrio ammonificans HB-1| Bacteria; Aquificae; Desulfurobacteriales; Desulfurobacteriaceae; Thermovibrio.	Theam_0792	complement(740666..742495)	"Sporulation domain-containing protein"
+YP_007120162	428309185	NC_019738	Microcoleus sp. PCC 7113| Bacteria; Cyanobacteria; Oscillatoriophycideae; Oscillatoriales; Microcoleus.	Mic7113_0854	979319..981838	"MutS2 family protein"
+YP_392406	78486481	NC_007520	Thiomicrospira crunogena XCL-2| Bacteria; Proteobacteria; Gammaproteobacteria; Thiotrichales; Piscirickettsiaceae; Thiomicrospira.	Tcr_2144	2364647..2366806	"(p)ppGpp synthetase SpoT/RelA"
+YP_002561368	222143334			
+YP_007838082	479210147	NC_021042	Faecalibacterium prausnitzii L2-6| Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae; Faecalibacterium.	FP2_24810	2497746..2498585	"amino acid/amide ABC transporter ATP-binding protein 1, HAAT family (TC 3.A.1.4.-)"
+YP_002777053	226349940			
+YP_007600855	471315500	NC_020555	Helicobacter cinaedi ATCC BAA-847| Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales; Helicobacteraceae; Helicobacter.	HCBAA847_0986	complement(949273..950652)	"50 kDa outer membrane protein precursor"
+YP_002561369	222143514			

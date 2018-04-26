@@ -1,0 +1,2 @@
+YP_003846295	302877731	NC_014394	Gallionella capsiferriformans ES-2| Bacteria; Proteobacteria; Betaproteobacteria; Gallionellales; Gallionellaceae; Gallionella.	Galf_0487	complement(532360..532737)	"hypothetical protein"
+YP_001526134	158424842	NC_009937	Azorhizobium caulinodans ORS 571| Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Xanthobacteraceae; Azorhizobium.	AZC_3218	3685938..3686636	"cell morphology protein"
